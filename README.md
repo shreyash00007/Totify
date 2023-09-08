@@ -1,2 +1,2 @@
 # Totify
-Totify
+Inspired by  Spotify Totify
