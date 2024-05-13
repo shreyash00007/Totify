@@ -2,6 +2,11 @@
 
 ### **👉 Live Demo URL :-** <a href="https://19-spotify-clone.vercel.app">**Visit**</a>
 
+#### 👇 Preview of the Website 👇
+
+![Preview](./public/images/home.png)
+![Preview](./public/images/search.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
